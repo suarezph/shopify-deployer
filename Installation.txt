@@ -1,0 +1,18 @@
+1. Install Ruby in windows
+-- https://rubyinstaller.org/downloads/
+2. After installing ruby, run this line to your terminal:
+-- gem install shopify-cli
+3. After success, to verify if shopify is installed, run this line to your terminal:
+-- shopify version
+4. Required: Install git, to GIT command in the terminal
+-- https://git-scm.com/downloads
+
+To learn more: https://shopify.dev/apps/tools/cli/installation
+
+----------------------
+|  Important Notes   |
+----------------------
+If error occured when you shopify serve, ex: [Error: You cannot use gems with Shopify CLI]
+>> gem install wdm
+Please note about the user permission:
+https://shopify.dev/themes/tools/cli/getting-started

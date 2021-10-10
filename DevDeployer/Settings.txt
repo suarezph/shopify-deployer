@@ -1,0 +1,2 @@
+STORE_URL=local-sisig-dev.myshopify.com
+STORE_PATH=C:\Users\Admin\Documents\Workspace\local-sisig

@@ -1,0 +1,4 @@
+STORE_URL_SG=local-sisig.myshopify.com
+STORE_URL_US=local-sisig-us.myshopify.com
+STORE_URL_CA=local-sisig-ca.myshopify.com
+STORE_PATH=C:\Users\Admin\Documents\Workspace\local-sisig
